@@ -1,0 +1,36 @@
+{
+  "habits": [
+    {
+      "id": 1,
+      "name": "Got to the gym",
+      "periodicity": "daily",
+      "creation_date": "2025-09-01",
+      "completions": ["2025-09-03", "2025-09-04", "2025-09-06", "2025-09-07"]
+    },
+    {
+      "id": 2,
+      "name": "Read book", 
+      "periodicity": "daily",
+      "creation_date": "2025-09-01",
+      "completions": ["2025-09-04", "2025-09-06", "2025-09-09"]
+    },
+    {
+      "id": 3,
+      "name": "Meditation",
+      "periodicity": "weekly", 
+      "creation_date": "2025-09-01",
+      "completions": ["2025-09-07", "2025-09-15"]
+    },
+    {
+      "id": 4,
+      "name": "Clean house",
+      "periodicity": "weekly",
+      "creation_date": "2025-09-01",
+      "completions": ["2025-09-03", "2025-09-13"]
+    },
+    {
+      "id": 5, 
+      "name": "Meal prep",
+      "periodicity": "weekly",
+      "creation_date": "2025-09-01",
+      "completions": ["2025-09-07"]}]}
