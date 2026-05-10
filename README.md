@@ -3,6 +3,11 @@
 This project was created for the course **Object-Oriented and Functional Programming with Python**.  
 It’s a simple command-line application that allows users to create, track and analyse daily and weekly habits.
 
+<img width="306" height="217" alt="Captura de pantalla 2025-10-05 a las 14 55 12" src="https://github.com/user-attachments/assets/78929594-f166-4877-8d75-80b47bbcafb3" />
+/
+
+<img width="258" height="91" alt="Captura de pantalla 2025-10-05 a las 18 44 39" src="https://github.com/user-attachments/assets/9d3af197-cf1f-4dec-ab8b-90f74a153aa4" />
+
 # Project Description
 
 The program helps users build good habits by tracking their progress over time.  
