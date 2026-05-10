@@ -17,6 +17,8 @@ All data is saved in a local JSON file so that you can close the program and con
 
 The project follows an object-oriented structure with two main classes and one module for functional analysis.
 
+<img width="350" height="325" alt="Captura de pantalla 2026-05-10 a las 12 04 19" src="https://github.com/user-attachments/assets/91260819-25a2-4ea4-aecf-c7fc36bdc8d1" />
+
 # Structure
 
 ├── main.py # Main menu and menu interface (CLI) 
